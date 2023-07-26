@@ -57,5 +57,6 @@ def max_marks(list1):
 ### Without Using Any Built-In Function
 ![output](/img/Screenshot%202023-07-26%20182101.png) 
 
+
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
