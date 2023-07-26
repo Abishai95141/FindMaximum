@@ -53,9 +53,9 @@ def max_marks(list1):
 ### Using Sort Function
 ![output](/sort%20output.png)
 ### Using Max Function
-![output](/img/max%20output.png) 
+![output](/max%20output.png) 
 ### Without Using Any Built-In Function
-![output](/img/Screenshot%202023-07-26%20182101.png) 
+![output](/Screenshot%202023-07-26%20182101.png) 
 
 
 ## Result:
